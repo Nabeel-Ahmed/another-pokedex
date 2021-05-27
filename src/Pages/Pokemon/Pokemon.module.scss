@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+}
+
+.image {
+  width: 50%;
+  padding: 1rem;
+  outline: solid red 1px;
+  height: 100vh;
+}
+
+.details {
+    height: 100vh;
+    width: 50%;
+    padding: 1rem;
+    outline: solid red 1px;
+}
